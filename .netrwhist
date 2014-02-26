@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/vic/Downloads/JPype-0.5.4.2/src'
+let g:netrw_dirhist_2='/media/datastorage/my-instance/webapps/demo/js'
+let g:netrw_dirhist_3='/media/datastorage/my-instance/webapps/demo'

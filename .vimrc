@@ -180,3 +180,8 @@ hi SpellBad cterm=underline ctermbg=6 ctermfg=2 gui=undercurl guisp=Red
 " 1. Spell check ( for python only strings and comments"
 " 2. Language check
 " 3. Latex mode
+"
+nmap <F8> :TagbarToggle<CR>
+let g:tagbar_width = 30
+
+map <F7> :NERDTreeToggle<CR>
