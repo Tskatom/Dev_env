@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 __author__ = "Wei Wang"
-__email__ = "tskatom@vt.edu"
+__email__ = "tskatom@gmail.com"
 
 import sys
 import os
